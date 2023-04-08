@@ -1,4 +1,4 @@
-@media(min-width: 450px){
+@media(max-width: 600px){
     .img-prof{
         width: 75%;
     }
