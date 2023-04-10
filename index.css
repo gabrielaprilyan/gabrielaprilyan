@@ -1,5 +1,6 @@
 @media(max-width: 600px){
     .img-prof{
         width: 75%;
+        border-radius: 50%;
     }
 }
